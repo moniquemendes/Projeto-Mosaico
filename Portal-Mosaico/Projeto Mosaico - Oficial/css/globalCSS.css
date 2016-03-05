@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+/*Classe do Header*/
+
+.GlobalImgResponsive{
+    max-width:100%;
+    height:auto;
+    display: block;
+    background-size:cover;
+    width: 100%;
+}
+.GlobalImgLogo{
+    margin-top:-7%;
+    padding-right:7%;
+    width: 35%; 
+}
+.GlobalImgNav {
+  padding 5px;
+}
+.pull-right{
+    margin-right:8px;
+}
+.navbar-toggle {
+  padding:7px;
+  float: left;  
+  margin-top: 8px;
+}
+
+/*Classe do Footer*/
+footer {
+	padding: 20px 0;
+	border-top: 1px solid #ddd;
+    background-color: rgb(34,34,34);
+    
+}
+
+/*Classe da Cor da Fonte do Footer*/
+h5 {
+    color:white;
+}
+.GlobalImgFt{
+    padding: 2px;
+}
+
+/*Classe do Copyright*/
+.GlobalCopyright { 
+    padding: 5px 0;
+    background-color: rgb(34,34,34);
+	color: #fff;
+}
